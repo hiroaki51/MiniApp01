@@ -1,0 +1,32 @@
+.more_list li{
+  margin: auto 10px;
+  float: left;
+}
+
+.blog_header {
+  position: fixed;
+  z-index: 10;
+}
+
+.container_position {
+  text-align: left;
+}
+
+.index_position {
+  height: 100px;
+}
+
+.edit_position {
+  margin: 100px auto;
+}
+
+.clearfix:after {
+  display: block;
+  clear: both;
+  content: "";
+}
+
+
+// Place all the styles related to the blogs controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
